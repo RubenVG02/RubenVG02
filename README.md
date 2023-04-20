@@ -17,6 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenVG02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RubenVG02&icon=8&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenvg02&label=Profile%20views&color=0e75b6&style=flat" alt="rubenvg02" /> </p>
