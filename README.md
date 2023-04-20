@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenvg02&label=Profile%20views&color=0e75b6&style=flat" alt="rubenvg02" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/rubenVG02](github.com/rubenVG02)
 
