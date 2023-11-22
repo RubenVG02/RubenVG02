@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
-<p align="center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75D31&center=true&&random=false&width=435&lines=Biotechnology+Student;Python+Developer" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 
 - 👨‍💻 All of my projects are available at [github.com/rubenVG02](github.com/rubenVG02)
