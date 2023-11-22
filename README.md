@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></img>, I'm Rubén Villegas</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Biotechnology+Student;Python+Developer&font=Fira%35Code&center=true&width=500&height=50&duration=5000&pause=1000&color=F74F38" alt="Ruben Villegas">
 </h1>
