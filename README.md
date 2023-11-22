@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
-<h2 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Biotechology+Student;Python+Developer&font=Fira%30Code&center=true&width=380&height=50&duration=5000&pause=1000&color=F74F38" alt="Ruben Villegas">
-</h2>
+</h1>
 
 
 - 👨‍💻 All of my projects are available at [github.com/rubenVG02](github.com/rubenVG02)
