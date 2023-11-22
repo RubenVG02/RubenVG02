@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75D31&random=false&width=435&lines=Biotechnology+Student;Python+Developer" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75D31&center=true&vCenter=true&random=false&width=435&lines=Biotechnology+Student;Python+Developer" alt="Typing SVG" /></a>
 
 
 - 👨‍💻 All of my projects are available at [github.com/rubenVG02](github.com/rubenVG02)
