@@ -17,7 +17,7 @@
 
 </p>
 <hr />
-<img  src="https://github-readme-stats.vercel.app/api?username=RubenVG02&show_icons=true&theme=dark" width="42%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=RubenVG02&show_icons=true&theme=dark" width="43%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RubenVG02&show_icons=true&theme=dark" width="45%"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenvg02&label=Profile%20views&color=0e75b6&style=flat" alt="rubenvg02" /> </p>
