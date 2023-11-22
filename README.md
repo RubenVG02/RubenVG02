@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
 <p align="center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75D31&center=true&vCenter=true&random=false&width=435&lines=Biotechnology+Student;Python+Developer" alt="Typing SVG" />
-                                                                                                                                                                                                                                                                           
-    </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75D31&center=true&vCenter=true&random=false&width=435&lines=Biotechnology+Student;Python+Developer" alt="Typing SVG" /></p>
 
 <style>
   h1, h2 {
