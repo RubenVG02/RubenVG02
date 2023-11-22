@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Villegas</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Biotechnology+Student;Python+Developer&font=Fira%30Code&center=true&width=380&height=50&duration=5000&pause=1000&color=F74F38" alt="Ruben Villegas">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Biotechnology+Student;Python+Developer&font=Fira%35Code&center=true&width=500&height=50&duration=5000&pause=1000&color=F74F38" alt="Ruben Villegas">
 </h1>
 
 
