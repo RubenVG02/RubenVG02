@@ -20,7 +20,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=RubenVG02&show_icons=true&theme=dark" width="43%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RubenVG02&show_icons=true&theme=dark" width="45%"  >
 
-<img src="https://raw.githubusercontent.com/RubenVG02/RubenVG02/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RubenVG02/RubenVG02/main/snake.yml" alt="Snake animation" />
 
 ###
 
