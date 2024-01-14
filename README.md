@@ -4,7 +4,7 @@
 </h1>
 
 
-- 👨‍💻 All of my projects are available at [github.com/rubenVG02](github.com/rubenVG02)
+- 👨‍💻 All of my projects are available at (github.com/rubenVG02)
 
 - 📫 How to reach me **rubenvillegas2@gmail.com**
 
