@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: **rubenvillegas2@gmail.com**
 
-- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ruben-vg/)**
+- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/ruben-villegas-gonzalez/)**
 
 
 
